@@ -79,7 +79,7 @@ export default function Home() {
 
 
         <h2 className="text-4xl font-serif mb-3">
-          Bonjour Cécile ✨
+          Bonjour Cécile ✨ Bienvenue
         </h2>
 
         <p className="mb-10 text-gray-600">
